@@ -1,4 +1,4 @@
-# Dero Stocks
+# Deno Stocks
 
 The start of an automated stock trading system written in Deno.
 
